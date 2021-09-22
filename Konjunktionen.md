@@ -263,62 +263,69 @@ and looks a bit more difficult to use. It’s one of the more complex German con
 
 ### 7.1- German Coordinating Conjunctions Chart
 
-und 	and
-aber 	but
-denn 	because
-oder 	or
-sondern 	but rather
-beziehungsweise 	or (precisely)
-doch 	however
-jedoch 	however
+**und** 	and
+
+**aber** 	but
+
+**denn** 	because
+
+**oder** 	or
+
+**sondern** 	but rather
+
+**beziehungsweise** 	or (precisely)
+
+**doch** 	however
+
+**jedoch** 	however
 
 ### 7.2- German Subordinating Conjunctions Chart
 
-bevor 	before
+**bevor** 	before
 
-nachdem 	after
+**nachdem** 	after
 
-ehe 	before
+**ehe** 	before
 
-Seit, seitdem 	since
+**Seit, seitdem** 	since
 
-während 	while; during
+**während** 	while; during
 
-als 	when (past)
+**als** 	when (past)
 
-wenn 	when (present)
+**wenn** 	when (present)
 
-wann 	when (question)
+**wann** 	when (question)
 
-bis 	until
+**bis** 	until
 
-obwohl 	although
+**obwohl** 	although
 
-als ob, als wenn, als 	as if
+**als ob, als wenn, als** 	as if
 
-sooft 	as often as
+**sooft** 	as often as
 
-sobald 	as soon as
+**sobald** 	as soon as
 
-solange 	as long as
+**solange** 	as long as
 
-da 	because
+**da** 	because
 
-indem 	by
+**indem** 	by
 
-weil 	because
+**weil** 	because
 
-ob 	whether
+**ob** 	whether
 
-falls 	in case
+**falls** 	in case
 
-um…zu 	in order to
+**um…zu** 	in order to
 
-dass 	in order to
+**dass** 	in order to
 
-sodass 	so that
+**sodass** 	so that
 
-damit 	so that
+**damit** 	so that
 
 
 
