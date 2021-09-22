@@ -329,4 +329,16 @@ and looks a bit more difficult to use. It’s one of the more complex German con
 
 
 
+## Conclusion
+
+
+    Similar thoughts (und; sowie; wie…)
+    
+    Condition (wenn; falls; sofern…)
+    
+    Cause (darum; weil; da; denn…)
+    
+    Opposition (aber; allerdings; doch; wohingegen…)
+    
+    Purpose (damit; dass…)
 
