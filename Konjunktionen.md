@@ -261,7 +261,7 @@ and looks a bit more difficult to use. It’s one of the more complex German con
 ## 7. More Conjunctions: German Conjunctions Tables
 
 
-### 1- German Coordinating Conjunctions Chart
+### 7.1- German Coordinating Conjunctions Chart
 
 und 	and
 aber 	but
@@ -272,30 +272,52 @@ beziehungsweise 	or (precisely)
 doch 	however
 jedoch 	however
 
-### 2- German Subordinating Conjunctions Chart
+### 7.2- German Subordinating Conjunctions Chart
 
 bevor 	before
+
 nachdem 	after
+
 ehe 	before
+
 Seit, seitdem 	since
+
 während 	while; during
+
 als 	when (past)
+
 wenn 	when (present)
+
 wann 	when (question)
+
 bis 	until
+
 obwohl 	although
+
 als ob, als wenn, als 	as if
+
 sooft 	as often as
+
 sobald 	as soon as
+
 solange 	as long as
+
 da 	because
+
 indem 	by
+
 weil 	because
+
 ob 	whether
+
 falls 	in case
+
 um…zu 	in order to
+
 dass 	in order to
+
 sodass 	so that
+
 damit 	so that
 
 
